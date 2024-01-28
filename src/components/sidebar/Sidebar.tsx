@@ -20,6 +20,9 @@ const Sidebar: React.FC = () => {
         <div className="serverIcon">
           <img src="./logo192.png" alt="" />
         </div>
+        <div className="serverIcon">
+          <img src="./logo192.png" alt="" />
+        </div>
       </div>
       <div className="sidebarRight">
       <div className="sidebarTop">
